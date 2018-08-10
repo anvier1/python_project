@@ -1,6 +1,6 @@
 # Proyecto Ejemplo Python
 
-El objetivo de este proyecto es servir como plantilla a futuros proyectos en Python
+El objetivo de este proyecto es servir como plantilla a futuros proyectos en Python.
 
 ## Getting Started
 
@@ -72,16 +72,12 @@ We use git for versioning. For the versions available, see the [tags on this rep
 
 ## Authors
 
-* **Angel Moro** - *
+* **Angel Moro**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
 * Github
 * Medium
-* 
