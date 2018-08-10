@@ -8,10 +8,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Es necesario desplegar el entorno de python para poder ejecutar este proceso. En el archivo environment.yml están todos los requerimientos necesarios y para crear el entorno a partir de él si ya existe conda es tan sencillo cómo hacer:
 
 ```
-Give examples
+conda create env -f environment.yml
+```
+ Para comprobar que se ha desplegado efectivamente listamos los entornos, lo activamos, hacemos un test y lo desactivamos:
+
+```
+conda env list
+conda activate python_project
+python
+import numpy as np
+exit()
+deactivate
 ```
 
 ### Installing
